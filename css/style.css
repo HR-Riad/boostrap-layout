@@ -1,3 +1,12 @@
 .bg-success{
     background-color:#FEEAE9 !important ;
 }
+.side-collage img{
+    height: 500px;
+}
+.first-image img{
+    height: 700px;
+}
+.bottom-img img{
+    height: 200px;
+}
